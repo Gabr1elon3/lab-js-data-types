@@ -85,9 +85,9 @@ answer:true
 console.log(expression5)
 
 const expression6 = !(a || b);
-answer:false
+/*answer:false*/
 console.log(expression6)
 
 const expression7 = a && a;
-answer:true
+/*answer:true*/
 console.log(expression7)
